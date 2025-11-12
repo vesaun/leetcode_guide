@@ -1,2 +1,2 @@
 # leetcode_guide
-Leetcode guide in Python and C++
+Leetcode guide in Python and C++ with explanations.
